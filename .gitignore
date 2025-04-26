@@ -49,7 +49,6 @@ msbuild.wrn
 *.mdb
 *.opendb
 *.VC.db
-*.unitypackage
 
 # Carpetas de IDE
 .idea/
